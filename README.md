@@ -1,2 +1,3 @@
-# dev-sidecar-sim-upstream
-Temporary upstream release simulator for dev-sidecar automation
+# Upstream release simulator
+
+This repository simulates an upstream project that publishes versioned GitHub Releases.
